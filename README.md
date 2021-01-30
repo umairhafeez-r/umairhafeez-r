@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/umairhm/umairhm/master/assets/profile-banner.png "Header")](https://umairhafeez.com/)
+
+<h1 align="center">Hi there! 👋</h1>
+<h3 align="center">I'm Umair Hafeez.</h3>
 
 <!--
 **umairhafeez-r/umairhafeez-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
